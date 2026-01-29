@@ -148,7 +148,7 @@ Personal project — license to be defined
 
 ## 🙋‍♂️ Author
 
-Built by **[Your Name]**  
+Built by **Baptiste RIFFARD**  
 📍 Helsinki  
 💻 Software Developer  
 🧠 POC / Portfolio / Product-thinking demo

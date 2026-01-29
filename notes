@@ -1,0 +1,5 @@
+version: 1.0.3
+ bug: 
+- si on vient du setting ooboarding pas la peine le pin code derriere
+- le bouton reinitialiser les thoughts ne fait rien
+   
